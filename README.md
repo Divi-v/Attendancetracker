@@ -1,7 +1,7 @@
-Employee Attendance System
+#**Employee Attendance System**
 This is a simple and intuitive web application for tracking employee punch-in and punch-out times. The app records attendance, flags late arrivals and early departures, and calculates extra hours worked.
 
-Features
+#**Features**
 Employee-centric Tracking: Log attendance using employee names instead of IDs.
 
 Automated Time Logging: Records real-time punch-in and punch-out times.
@@ -16,7 +16,7 @@ Data Persistence: Uses a local SQLite database to store all attendance records.
 
 Data Export: Allows users to download all attendance data as a Microsoft Excel file (.xlsx).
 
-How to Use
+#**How to Use**
 Enter your name in the text box.
 
 Click the "Punch In" button when you arrive at work.
@@ -27,7 +27,7 @@ The attendance table below will update automatically.
 
 Use the "Export to Excel" button to download the complete records.
 
-Technologies Used
+#**Technologies Used**
 Streamlit: The Python framework used to create the web application.
 
 Python: The core programming language.
